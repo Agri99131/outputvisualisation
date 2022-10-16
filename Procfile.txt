@@ -1,1 +1,0 @@
-web: sh setup.sh && streamlit run plotting2.py
